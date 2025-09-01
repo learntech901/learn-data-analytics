@@ -1,4 +1,5 @@
-
+## Step 1: Learn the Basics of Data Analytics
+Start with the fundamentals:
 * What is data analytics?
 * Types of analytics – Descriptive, Diagnostic, Predictive, and Prescriptive.
 * Understanding how businesses use data for decision-making.
