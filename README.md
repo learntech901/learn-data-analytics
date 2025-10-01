@@ -1,3 +1,8 @@
+Full Guide & Course Link
+I followed this 90-day roadmap and built 3 portfolio projects while learning Python, Excel, SQL, Power BI, and data visualization techniques
+Check the complete course and guide here:
+**https://acciojob.com/data-analytics**
+
 ## Step 1: Learn the Basics of Data Analytics
 Start with the fundamentals:
 * What is data analytics?
